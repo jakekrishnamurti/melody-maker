@@ -7,7 +7,7 @@ Simply run main.py and play/open the MIDI file using another application e.g. VL
 
 ## **Running the Code:**
 
-The only dependency for this program is [MIDIUtil](https://github.com/MarkCWirt/MIDIUtil)
+The only dependency for this program is [MIDIUtil](https://github.com/MarkCWirt/MIDIUtil)\
 Install with `pip install MIDIUtil`
 
 ## **Known Problems:**
